@@ -1,6 +1,6 @@
 # RubyMagick
 
-RubyMagick is a really (really) small app that resizes images while preserving their aspect ratio.
+RubyMagick is a really (really) small script that batch resizes images while preserving their aspect ratio.
 
 It depends on [ImageMagick](https://github.com/ImageMagick/ImageMagick).
 
